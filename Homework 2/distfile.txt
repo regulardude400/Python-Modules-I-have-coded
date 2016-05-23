@@ -1,0 +1,15 @@
+in,3
+You,3
+have,2
+your,2
+feet,1
+shoes.,1
+any,1
+steer,1
+you,1
+choose.,1
+head.,1
+brains,1
+direction,1
+can,1
+yourself,1
